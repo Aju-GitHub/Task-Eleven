@@ -1,0 +1,9 @@
+1. Signed up for Azure Free Tier
+2. Created a VM with Ubuntu 24.04 and allowed SSH (port 22)
+3. Created SSH key and downloaded ".pem" file
+4. Set up a shared folder in VirtualBox to transfer the key to Kali
+5. Fixed file ownership and permissions
+6. Connected via SSH from Kali to Azure VM
+7. Verified connection with internal IP and ping tests
+8. Captured 3 screenshots for documentation
+9. Terminated process and destroyed the VM task
