@@ -8,6 +8,8 @@ This repository documents my step-by-step process of creating and connecting to 
 
 Task-11/
 
+/- README - Documentation
+
 /- Screenshot 1 - ip command result
 
 /- Screenshot 2 - Pinging kali
@@ -15,8 +17,6 @@ Task-11/
 /- Screenshot 3 - More ping information
 
 /- task_11_steps - Contains main steps taken
-
-/- README - Documentation
 
 **Rights and Usage:**
 
