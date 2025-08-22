@@ -1,6 +1,6 @@
-# Task 11
+# Cybesecurity Task 11
 
-This repository documents my # Task 13
+This repository documents my Task 11.
 
 This repository documents my step-by-step process of creating and connecting to an Azure Virtual Machine (VM) running Ubuntu 24.04, using SSH from a Kali Linux environment. The task includes VM provisioning, key management, network configuration, and verification steps.
 
